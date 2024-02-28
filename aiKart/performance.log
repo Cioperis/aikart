@@ -5,3 +5,8 @@
 [2023-12-11 23:43:19] class:aiKart.Controllers.UserDeckController method:GetUserDeckStatistics (aiKart) took 738 ms, response code:Microsoft.AspNetCore.Mvc.OkObjectResult
 [2023-12-11 23:43:28] class:aiKart.Controllers.UserDeckController method:GetUserDeckStatistics (aiKart) took 50 ms, response code:Microsoft.AspNetCore.Mvc.OkObjectResult
 [2023-12-11 23:43:36] class:aiKart.Controllers.DeckController method:GetDeck (aiKart) took 152 ms, response code:Microsoft.AspNetCore.Mvc.OkObjectResult
+[2024-02-28 16:05:26] class:aiKart.Controllers.UserController method:AddUser (aiKart) took 628 ms, response code:
+[2024-02-28 16:05:36] class:aiKart.Controllers.UserController method:AddUser (aiKart) took 9 ms, response code:
+[2024-02-28 16:05:40] class:aiKart.Controllers.UserController method:AddUser (aiKart) took 37 ms, response code:
+[2024-02-28 16:05:49] class:aiKart.Controllers.UserController method:AddUser (aiKart) took 1 ms, response code:
+[2024-02-28 16:24:26] class:aiKart.Controllers.UserController method:AddUser (aiKart) took 4588 ms, response code:
